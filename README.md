@@ -1,23 +1,27 @@
-<h1 align="left">Hi 👋! My name is Mohamed and I'm a Frontend developer</h1>
+<h2 align="left">Hi 👋! My name is Mohamed and I'm a Frontend Developer</h2>
 
 ###
-<h2 align="left">i'm working on my own Startup as a solo developer called Quizora-AI check it out</h2>
-<a href="https://www.quizora-ai.com/">@Quizora-AI</a>
 
+<h5 align="left">I'm working on my own startup as a solo developer — check out Quizora-AI</h5>
+<a href="https://www.quizora-ai.com/">🔗 Quizora-AI</a>
 
 ###
-<h2>i use a vraite of tool i don't just stick with the front end i sometime try soem different tools in the backend and AI:</h2>
+
+<h5>I use a variety of tools — I don’t just stick to frontend. I explore backend and AI as well:</h5>
+
 <ul>
-  <li><strong>FrontEnd:</strong>html css javascript/typescript, React, Next.js, FramerMotion/Motion, GSPA.js, Vitest,React Testing Library, ClerkAuth</li>
-  <li><strong>Backend:</strong>Node.js, Express.js, Mongodb, Python, FastAPI, Flask</li>
-  <li><strong>ai:</strong>OpenAI API, GeminiAI API</li>
+  <li><strong>Frontend:</strong> HTML, CSS, JavaScript/TypeScript, React, Next.js, Framer Motion, GSAP.js, Vitest, React Testing Library, ClerkAuth</li>
+  <li><strong>Backend:</strong> Node.js, Express.js, MongoDB, Python, FastAPI, Flask</li>
+  <li><strong>AI:</strong> OpenAI API, Gemini API</li>
 </ul>
 
+###
+
+<h5>How to get in touch with me?</h5>
+<ul>
+  <li><strong>Email:</strong> mohamedabuali97@gmail.com</li>
+  <li><strong>X (Twitter):</strong> https://x.com/abuali_moh37878</li>
+</ul>
 
 ###
-<h2>How to get in touch with me?</h2>
-<ul>
-  <li><strong>Eamil@:</strong>mohamedabuali97@gmail.com</li>
-  <li><strong>X@:</strong>https://x.com/abuali_moh37878</li>
-</ul>
-###
+
