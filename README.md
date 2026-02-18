@@ -7,7 +7,7 @@
 
 ###
 
-<h5>I use a variety of tools — I don’t just stick to frontend. I explore backend and AI as well:</h5>
+<h5>I use a variety of tools:</h5>
 
 <ul>
   <li><strong>Frontend:</strong> HTML, CSS, JavaScript/TypeScript, React, Next.js, Framer Motion, GSAP.js, Vitest, React Testing Library, ClerkAuth</li>
